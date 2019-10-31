@@ -60,5 +60,4 @@ while True:
         print(head_data)
         head_data[2] = ""
         head_data[3] = ""
-        sleep(100)
         sleep(600)
